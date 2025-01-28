@@ -17,7 +17,8 @@ try:
 except Exception as e:
     print('An error occurred:', e)
 
-print('Uprava')
+print('Uprava / teray tu mam novu branch')
+print('toto je nova brunch')
 
 
 
